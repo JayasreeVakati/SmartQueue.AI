@@ -3,7 +3,7 @@
 
  id  hour  day_of_week  prev_customers  predicted_customers                  timestamp
  16     1            3               6          
-         10 2025-07-15T06:49:07.945684
+         10 2025-07-15T06:49:07.945684 
  15    17            5               1          
           9 2025-07-14T23:01:45.858641
  14     1            5               1          
