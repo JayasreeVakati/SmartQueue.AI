@@ -18,7 +18,7 @@ SmartQueue.AI is a machine learning-powered application that predicts customer l
 
 ## 🎥 Streamlit Dashboard Demo
 
-[Watch the demo video (download)](https://github.com/JayasreeVakati/SmartQueue.AI/raw/main/demo%20output/SmartQueueAi_dashboard.mp4)
+[Watch the demo video (download)(demo output/dshboard_preview.png)](https://github.com/JayasreeVakati/SmartQueue.AI/raw/main/demo%20output/SmartQueueAi_dashboard.mp4)
 
 
 <video width="100%" controls>
