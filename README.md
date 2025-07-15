@@ -22,7 +22,7 @@ SmartQueue.AI is a machine learning-powered application that predicts customer l
 
 
 <video width="100%" controls>
-  <source src="demo/streamlit_demo.mp4" type="video/mp4">
+  <source src="demo output/SmartQueueAi_dashboard.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
