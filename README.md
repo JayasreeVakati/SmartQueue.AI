@@ -38,7 +38,7 @@ SmartQueue.AI is a machine learning-powered application that predicts customer l
 | Frontend UI  | Streamlit      |
 | ML Model     | scikit-learn (RandomForest) |
 | DB/Storage   | SQLite         |
-| Integration  | Python + Java (optional)    |
+| Integration  | Python + Java |
 
 ---
 
